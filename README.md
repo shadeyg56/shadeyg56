@@ -12,8 +12,8 @@
 
 <table align="center">
     <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadeyg56&theme=tokyonight&hide_progress=true&hide_borders=true"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadeyg56&theme=tokyonight&hide_progress=true&hide_border=true"></td>
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <td><img src="https://github-readme-stats.vercel.app/api?username=shadeyg56&show_icons=true&theme=tokyonight"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=shadeyg56&show_icons=true&theme=tokyonight&hide_border=true"></td>
     </tr>
 </table>
