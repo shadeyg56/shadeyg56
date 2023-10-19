@@ -11,6 +11,7 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I love auto-cpufreq](https://example.org/posts/auto-cpufreq/)
 <!-- BLOG-POST-LIST:END -->
 
 
