@@ -2,14 +2,14 @@
 
 <h3 align="center">Undergrad student at UTT studying Computer Science<br>and hobbyist programmer looking to go professional</h3>
 
-<h3>About me</h3>
+## About me
 
 - Co-maintainer of [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
 - Python was my first language and continues to be my favorite
 - Previously worked as a Python freelancer on [Fiverr](https://www.fiverr.com/shadeyg56)
 - Obsessed with NixOS
 
-### Latest blog posts
+## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Why I love auto-cpufreq](https://example.org/posts/auto-cpufreq/)
 <!-- BLOG-POST-LIST:END -->
