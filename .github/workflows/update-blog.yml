@@ -1,0 +1,22 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+  - cron: "0 0,12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update_blog:
+    runs-on: ubuntu-latest
+    steps:
+     - uses: actions/checkout@v4.1.1
+
+     - name: update README
+       uses: gautamkrishnar/blog-post-workflow@1.8.4
+       with:
+         feed_list: https://shadeyg56.vercel.app/index.xml
+         max_post_count: 5
+    
