@@ -11,7 +11,7 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How the xz backdoor highlights a major flaw in Nix](https://shadeyg56.vercel.app/posts/nixos/)
+- [How the xz backdoor highlights a major flaw in Nix](https://shadeyg56.vercel.app/posts/nixos/xz-backdoor/)
 - [Why I love auto-cpufreq](https://shadeyg56.vercel.app/posts/auto-cpufreq/)
 <!-- BLOG-POST-LIST:END -->
 
